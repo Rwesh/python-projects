@@ -10,7 +10,7 @@ Life.py: a rendition of conways game of life
   _m switche to madlebrot sets_
   
   _arows slip beteen presets_
-
+\n
 
 Mandlebrot.py: interative view of mandlebrot and julia sets
   Controls: 
