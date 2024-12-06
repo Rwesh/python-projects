@@ -3,7 +3,7 @@ Life.py: a rendition of conways game of life
 
   controls:
   
-  zoom by clicking and dragging on area
+  _zoom by clicking and dragging on area_
   
   j switches to julia sets
   
