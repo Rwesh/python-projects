@@ -5,19 +5,20 @@ Life.py: a rendition of conways game of life
   
   _zoom by clicking and dragging on area_
   
-  j switches to julia sets
+  _j switches to julia sets_
   
-  m switche to madlebrot sets
+  _m switche to madlebrot sets_
   
-  arows slip beteen presets
+  _arows slip beteen presets_
+
 
 Mandlebrot.py: interative view of mandlebrot and julia sets
   Controls: 
   
-  space for pause an continue
+  _space for pause an continue_
   
-  c to clear screen
+  _c to clear screen_
   
-  click scree to set tile
+  _click scree to set tile_
   
-  r resets to generation 0
+ _ r resets to generation 0_
