@@ -1,5 +1,6 @@
 # python-projects
 Life.py: a rendition of conways game of life
+
   controls:
   
   zoom by clicking and dragging on area
@@ -12,7 +13,11 @@ Life.py: a rendition of conways game of life
 
 Mandlebrot.py: interative view of mandlebrot and julia sets
   Controls: 
-  \n space for pause an continue
+  
+  space for pause an continue
+  
   c to clear screen
+  
   click scree to set tile
+  
   r resets to generation 0
